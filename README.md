@@ -1,2 +1,3 @@
 # what_if_analysis
 Calculating what-if analysis using Python
+Simon, a data analyst, earns a monthly salary of £30,000. With no savings, Simon is curious to know when he will be able to retire. A friend suggested that he needs approximately £1,000,000 to retire if he gets a yearly salary increase. We'll create and test a model that will allow us to calculate how many years it would take for Simon's preferred level of savings to be reached. The model essentially tracks wages and savings and maintains a constant growth rate (which includes both the cost-of-living raises and regular wage increases tied to promotions). 
